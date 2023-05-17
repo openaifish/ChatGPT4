@@ -1,6 +1,6 @@
 # Table of contents
 
-* [ChatGPT4中文版](README.md)
+* [简介](README.md)
 * [聊天](liao-tian.md)
 * [创作](chuang-zuo.md)
 * [绘图](hui-tu.md)
